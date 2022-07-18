@@ -10,5 +10,5 @@ Images & files are attached for reference & download purposes as well.
 
 <img  src="https://user-images.githubusercontent.com/81765508/179603733-b68901ff-2466-4588-b238-61d3466ff8a0.png">
 
-<img src="https://user-images.githubusercontent.com/81765508/179603897-7db17b11-5523-443f-b3fd-4252b04987bf.png">
+<img width="754" alt="image" src="https://user-images.githubusercontent.com/81765508/179604095-42ae0fe2-632a-4ec4-8a4d-287adb0aac7e.png">
 
